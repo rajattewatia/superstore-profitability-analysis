@@ -41,9 +41,9 @@ strong sales volume but negative profit - concentrated evidence
 of discount abuse on specific product lines.
 
 ### Finding 3 - Hidden high-value segment
-Home Office places the fewest orders but generates the highest 
-profit per order ($33.8). Consumer dominates volume but is the 
-least efficient segment per transaction.
+Home Office places the fewest orders (1,783) but generates 
+the highest profit per order ($33.8), compared to Consumer 
+at $25.8 - making it the most efficient segment per transaction.
 
 ### Finding 4 - Revenue-profit gap
 Sales grew consistently 2014–2017 but profit did not grow 
