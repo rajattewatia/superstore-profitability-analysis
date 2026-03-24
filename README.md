@@ -58,7 +58,7 @@ as the business scaled.
    segment** - highest ROI per customer acquired
 
 ## Dashboard
-![Superstore Profitability Dashboard](dashboard.png)
+![Superstore Profitability Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 - Data cleaning and preparation in Excel
